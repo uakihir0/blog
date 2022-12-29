@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Game Review
+description: ゲームのレビューカテゴリ
 image:
 
 # Badge style
