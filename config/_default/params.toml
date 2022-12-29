@@ -18,7 +18,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "https://pbs.twimg.com/profile_images/3281775414/ad72851524c3d42859c39f146d4273ef_400x400.png"
+src = "img/avatar.png"
 
 [article]
 math = false
