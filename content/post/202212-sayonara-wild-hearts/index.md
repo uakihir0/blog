@@ -43,7 +43,7 @@ PC (Steam) 版を、 SteamDeck でプレイしました。そこまでスペッ�
 ### スクリーンショット
 
 - ゲームプレイ画面
-  <img src="cover.jpeg" />
+  ![ゲームプレイ画面](cover.jpeg)
 
 - 曲のセレクト画面
-  <img src="img1.jpeg" />
+  ![曲のセレクト画面](image1.jpeg)
