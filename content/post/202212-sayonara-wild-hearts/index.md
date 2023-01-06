@@ -1,5 +1,5 @@
 ---
-title: ゲームレビュー 『Sayonara Wild Hearts』
+title: ゲームレビュー『Sayonara Wild Hearts』
 description:
 slug: 202212-sayonara-wild-hearts
 date: 2022-12-29 00:00:00+0000
