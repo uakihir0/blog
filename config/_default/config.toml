@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://uakihir0.github.io/blog"
-languageCode = "en-us"
+languageCode = "ja-jp"
 paginate = 5
 title = "Urushi's Blog"
 
