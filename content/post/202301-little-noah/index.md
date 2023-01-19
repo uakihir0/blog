@@ -7,7 +7,7 @@ image: image2.jpeg
 categories:
   - Game Review
 tags:
-  - Geme
+  - Game
 ---
 
 ## 『リトルノア楽園の後継者』 とは？

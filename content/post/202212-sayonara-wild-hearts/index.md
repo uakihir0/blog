@@ -7,7 +7,7 @@ image: image2.jpeg
 categories:
   - Game Review
 tags:
-  - Geme
+  - Game
 ---
 
 ## 『Sayonara Wild Hearts』 とは？
