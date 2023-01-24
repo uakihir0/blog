@@ -7,7 +7,7 @@ image: cover.jpeg
 categories:
   - Game Review
 tags:
-  - Geme
+  - Game
 ---
 
 ## 『』 とは？
