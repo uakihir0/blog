@@ -2,7 +2,7 @@
 title: ゲームレビュー 『ホグワーツ・レガシー』
 description:
 slug: 202303-hogwarts-legacy
-date: 2023-03-10 20:00:00+0000
+date: 2023-03-10 00:00:00+0000
 image: image1.png
 categories:
   - Game Review
